@@ -1,7 +1,7 @@
 package INTERFACE;
 
 public abstract class Funcionario implements BonusFuncionario {
-
+    //Atributos
     private String nome;
     private int idade;
     private String cargo;
@@ -11,7 +11,7 @@ public abstract class Funcionario implements BonusFuncionario {
         this.idade = idade;
         this.cargo = cargo;
     }
-
+    //Get e set
     public String getNome() {
         return nome;
     }

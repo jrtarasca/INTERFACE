@@ -35,9 +35,8 @@ Ferramentas utilizadas e bibliotecas
 * **José Tarasca** - *Trabalho Inicial* - INTERFACE
 
 
+![Diagrama INTERFACE](https://github.com/user-attachments/assets/1f7bc60e-b82b-4577-b089-9f64888b4d80)
 
-
-![Diagrama INTERFACE](https://github.com/user-attachments/assets/c5fdffd1-2794-4c77-ab64-579c781b40ae)
 
 
 

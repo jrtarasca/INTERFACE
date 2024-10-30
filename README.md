@@ -33,3 +33,11 @@ Ferramentas utilizadas e bibliotecas
 ## ✒️ Autores
 
 * **José Tarasca** - *Trabalho Inicial* - INTERFACE
+
+
+
+
+[Diagrama INTERFACE.pdf](https://github.com/user-attachments/files/17579951/Diagrama.INTERFACE.pdf)
+
+
+

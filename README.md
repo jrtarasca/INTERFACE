@@ -37,7 +37,7 @@ Ferramentas utilizadas e bibliotecas
 
 
 
-[Diagrama INTERFACE.pdf](https://github.com/user-attachments/files/17579951/Diagrama.INTERFACE.pdf)
+![Diagrama INTERFACE.pdf](https://github.com/user-attachments/files/17579951/Diagrama.INTERFACE.pdf)
 
 
 
